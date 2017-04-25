@@ -1,7 +1,7 @@
 Bhérer et al. Genetic Maps
 
-This folder contains the genetic maps described in the manuscript 
-Bhérer, Campbell & Auton (under review). 
+This folder contains the genetic maps described in 
+Bhérer, C. et al. Refined genetic maps reveal sexual dimorphism in human meiotic recombination at multiple scales. Nat. Commun. 8, 14994 doi:10.1038/ncomms14994 (2017). 
 
 Refined estimates of recombination rates were obtained by applying a new MCMC method
 to pedigree-based recombination data as described in the manuscript. 
@@ -22,4 +22,4 @@ arbitrary size.
 
 Claude Bhérer 
 claudebherer@gmail.com
-20160817
+20170425
